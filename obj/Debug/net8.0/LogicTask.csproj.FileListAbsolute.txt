@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\LogicTask\bin\Debug\net8.0\LogicTask.exe
+C:\Users\Admin\source\repos\LogicTask\bin\Debug\net8.0\LogicTask.deps.json
+C:\Users\Admin\source\repos\LogicTask\bin\Debug\net8.0\LogicTask.runtimeconfig.json
+C:\Users\Admin\source\repos\LogicTask\bin\Debug\net8.0\LogicTask.dll
+C:\Users\Admin\source\repos\LogicTask\bin\Debug\net8.0\LogicTask.pdb
+C:\Users\Admin\source\repos\LogicTask\obj\Debug\net8.0\LogicTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\LogicTask\obj\Debug\net8.0\LogicTask.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\LogicTask\obj\Debug\net8.0\LogicTask.AssemblyInfo.cs
+C:\Users\Admin\source\repos\LogicTask\obj\Debug\net8.0\LogicTask.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LogicTask\obj\Debug\net8.0\LogicTask.dll
+C:\Users\Admin\source\repos\LogicTask\obj\Debug\net8.0\refint\LogicTask.dll
+C:\Users\Admin\source\repos\LogicTask\obj\Debug\net8.0\LogicTask.pdb
+C:\Users\Admin\source\repos\LogicTask\obj\Debug\net8.0\LogicTask.genruntimeconfig.cache
+C:\Users\Admin\source\repos\LogicTask\obj\Debug\net8.0\ref\LogicTask.dll
